@@ -75,7 +75,7 @@ export const experiences: ExperienceItem[] = [
     location: "Dubai, United Arab Emirates",
     start: "Jan 2020",
     end: "Feb 2022",
-    link: "https://forms-dev.alec.ae/",
+    link: "https://forms.alec.ae/",
     summary:
       "Delivered enterprise applications and a dynamic eForms platform for regulated workflows.",
     bullets: [

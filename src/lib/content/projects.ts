@@ -24,7 +24,7 @@ export const projects: Project[] = [
     title: "Dynamic eForms & Workflow Platform",
     description:
       "Configurable forms and workflow engine that cut approval cycles from days to under 24 hours for regulated enterprise use.",
-    link: "https://forms-dev.alec.ae/",
+    link: "https://forms.alec.ae/",
     metrics: ["Configurable workflows", "Azure-native"],
     featured: true,
     stack: [".NET", "React", "Cosmos DB", "Azure DevOps"],
