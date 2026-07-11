@@ -13,7 +13,7 @@ export const siteConfig = {
   email: "asadishfaq100@gmail.com",
   phone: "+92 300 8189126",
   phoneTel: "+923008189126",
-  location: "Shokat Town, Lahore 54000, Pakistan",
+  location: "Lahore 54760, Pakistan",
   linkedin: "https://www.linkedin.com/in/muhammad-asad-209794178",
   keywords: [
     "Muhammad Asad",

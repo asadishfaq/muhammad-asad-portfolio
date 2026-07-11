@@ -23,7 +23,7 @@ function buildJsonLd() {
       "@type": "PostalAddress",
       addressLocality: "Lahore",
       addressRegion: "Punjab",
-      postalCode: "54000",
+      postalCode: "54760",
       addressCountry: "PK",
       streetAddress: "Shokat Town",
     },
