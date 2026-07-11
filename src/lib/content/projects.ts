@@ -40,6 +40,22 @@ export const projects: Project[] = [
     stack: ["React", "Real-time UI", "Secure transactions"],
   },
   {
+    id: "social27",
+    title: "Social27 — Virtual & Hybrid Events Platform",
+    description:
+      "Contributed modules to an enterprise virtual, hybrid, and in-person events platform used by Fortune 500 organizations. Work spanned AI-powered event building, attendee engagement and matchmaking, exhibitor/sponsor booth microsites, and real-time analytics — on an SOC 2, GDPR, and PCI DSS compliant platform with Zoom and Microsoft Teams integrations.",
+    link: "https://www.social27.com/",
+    metrics: ["Fortune 500 clients", "Enterprise-grade compliance", "AI matchmaking"],
+    featured: true,
+    stack: [
+      "React",
+      "Next.js",
+      "Node.js",
+      "TypeScript",
+      "Azure",
+    ],
+  },
+  {
     id: "askjaqq",
     title: "AskJAQQ — Legal Q&A Marketplace",
     description:
