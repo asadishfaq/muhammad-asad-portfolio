@@ -8,7 +8,7 @@ import { SectionHeading } from "@/components/ui/SectionHeading";
 export const metadata: Metadata = {
   title: "About Muhammad Asad",
   description:
-    "About Muhammad Asad — senior MERN full stack developer in Lahore with 10+ years building React, Next.js, and Node.js platforms for enterprise clients.",
+    "About Muhammad Asad — senior MERN full stack developer in Lahore with 8+ years building React, Next.js, and Node.js platforms for enterprise clients.",
   alternates: { canonical: "/about" },
   openGraph: {
     title: "About Muhammad Asad | MERN & React developer",

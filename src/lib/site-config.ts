@@ -5,7 +5,7 @@ export const siteConfig = {
   tagline:
     "Senior MERN Engineer building enterprise web platforms with React, Next.js, and Node.js.",
   description:
-    "Muhammad Asad is a Lahore-based MERN full stack developer with 10+ years of experience in React.js, Next.js, Node.js, Express, NestJS, MongoDB, AWS, and Azure. Hire a proven Node.js and React developer for scalable, secure applications.",
+    "Muhammad Asad is a Lahore-based MERN full stack developer with 8+ years of experience in React.js, Next.js, Node.js, Express, NestJS, MongoDB, AWS, and Azure. Hire a proven Node.js and React developer for scalable, secure applications.",
   url:
     process.env.NEXT_PUBLIC_SITE_URL?.replace(/\/$/, "") ||
     "http://localhost:3000",
