@@ -14,7 +14,7 @@ export type ExperienceItem = {
 export const experiences: ExperienceItem[] = [
   {
     id: "nextbridge",
-    role: "Senior MERN Engineer / Architect",
+    role: "Senior MERN Engineer",
     company: "Nextbridge Ltd.",
     location: "Lahore, Pakistan",
     start: "Jul 2024",
