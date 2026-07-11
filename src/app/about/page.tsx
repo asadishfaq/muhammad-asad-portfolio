@@ -24,7 +24,7 @@ export default function AboutPage() {
       <SectionHeading
         eyebrow="01 — About"
         title="Muhammad Asad"
-        subtitle="Senior MERN architect focused on secure, observable systems and polished product experiences."
+        subtitle="Senior MERN Engineer focused on secure, observable systems and polished product experiences."
       />
 
       <div className="grid gap-10 lg:grid-cols-[1.1fr_0.9fr]">
