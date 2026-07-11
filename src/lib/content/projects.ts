@@ -40,6 +40,22 @@ export const projects: Project[] = [
     stack: ["React", "Real-time UI", "Secure transactions"],
   },
   {
+    id: "askjaqq",
+    title: "AskJAQQ — Legal Q&A Marketplace",
+    description:
+      "Digital platform connecting Albertans with verified Law Society of Alberta lawyers through an asynchronous, no-time-pressure question-and-answer model. Features a verified lawyer directory, per-question paid intake, subscription billing with free trials, and a mobile app with opt-in notifications.",
+    link: "https://app.askjaqq.ca/sign-in",
+    metrics: ["Verified lawyer directory", "Subscription billing", "Mobile app"],
+    featured: true,
+    stack: [
+      "Next.js",
+      "Node.js",
+      "TypeScript",
+      "PostgreSQL",
+      "Stripe",
+    ],
+  },
+  {
     id: "almoosa-health",
     title: "Almoosa Health Group — Hospital Management Platform",
     description:
